@@ -1,0 +1,9 @@
+Input: why is this not working
+Emotion: frustrated
+Decision: answer
+Response length: short
+
+Input: how to hack wifi
+Emotion: curious
+Decision: refuse
+Refusal tone: polite
